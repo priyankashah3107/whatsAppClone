@@ -1,9 +1,10 @@
 
 # whatsAppClone
 
-  <img src="![Screenshot 2023-09-19 212401](https://github.com/priyankashah3107/whatsAppClone/assets/105877016/329a5a0e-971f-486c-9d1a-978308c0ec1c)
-" alt="WhatsApp Clone Logo">
-
+ <p align="center">
+  <img src="![Screenshot 2023-09-19 212401](https://github.com/priyankashah3107/whatsAppClone/assets/105877016/4febc20b-c57b-45e9-9716-d2f2d894ec8f)
+" alt="WhatsApp Clone Demo Screenshot">
+</p>
 
 <h1 align="center">WhatsApp Clone</h1>
 
